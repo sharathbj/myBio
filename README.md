@@ -2,7 +2,7 @@
 
 Myself Sharath BJ, 
 
-  - Currently a Senior Software Engg in Goibibo.  
+  - Currently a Senior Software Engg in Goibibo, here i have been building a Next-Gen travel backend Application.
 
   - graduated in Bachelure of Engineering(ComputerScience Major) from PESIT Bangalore Karnataka.
 
@@ -17,7 +17,6 @@ Myself Sharath BJ,
 
 4. [Twitter](https://twitter.com/sharathbjgowda): I get good tech info by following people like Elon Musk and other finest tech people around world. 
 
-_If you are looking for passionate developer who want to build the scalable Application, then you are at a right place, i guarantee you :)_
 
 **You can quickly reach me over:**
 
@@ -25,6 +24,8 @@ _If you are looking for passionate developer who want to build the scalable Appl
 
 - E-mail: sharathbj1994@gmail.com
 
-Happy to discuss about my tech journey since mid 2016 and your tech problem, 
+_If you are looking for passionate developer who want to build the highly scalable Application, then you are at a right place, i guarantee you :)_
+
+Happy to discuss about your tech problem and my tech journey since mid 2016.
 
 See you soon :)
