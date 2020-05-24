@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Hello World, Welcome to myBio
 
-You can use the [editor on GitHub](https://github.com/sharathbj/myBio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Myself Sharath BJ, 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  - Currently a Senior Software Engg in Goibibo.  
 
-### Markdown
+  - graduated in Bachelure of Engineering(ComputerScience Major) from PESIT Bangalore Karnataka.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+**you can see different avatar's of myself in different technical/social network sites!!**
 
-# Header 1
-## Header 2
-### Header 3
+1. [GitHub](https://github.com/sharathbj): In Free times i have tried some random experiments/codes. 
 
-- Bulleted
-- List
+2. [LinkedIn](https://www.linkedin.com/in/sharathbjgowda/): My Professional journey can be tracked here. 
 
-1. Numbered
-2. List
+3. [Stack overflow](https://stackoverflow.com/users/5261216/sharath-bj): Every developer final destination when they stuck with issue and so mine too. BTW i too try to solve few problem which my fellow dev's struggling. 
 
-**Bold** and _Italic_ and `Code` text
+4. [Twitter](https://twitter.com/sharathbjgowda): I get good tech info by following people like Elon Musk and other finest tech people around world. 
 
-[Link](url) and ![Image](src)
-```
+_If you are looking for passionate developer who want to build the scalable Application, then you are at a right place, i guarantee you :)_
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**You can quickly reach me over:**
 
-### Jekyll Themes
+- Phone : 9035331748
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sharathbj/myBio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- E-mail: sharathbj1994@gmail.com
 
-### Support or Contact
+Happy to discuss about my tech journey since mid 2016 and your tech problem, 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+See you soon :)
