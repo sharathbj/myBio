@@ -24,8 +24,8 @@ Myself Sharath BJ,
 
 - E-mail: sharathbj1994@gmail.com
 
-_If you are looking for passionate developer who want to build the highly scalable Application, then you are at a right place, i guarantee you :)_
-
 Happy to discuss about your tech problem and my tech journey since mid 2016.
+
+_If you are looking for passionate developer to build the highly scalable Application, then you are at a right place, i guarantee you :)_
 
 See you soon :)
